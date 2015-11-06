@@ -1,59 +1,9 @@
-= JSR 365: Contexts and Dependency Injection for Java 2.0
-:author: JSR 365 EG lead by Antoine Sabot-Durand
-:email: cdi-dev@lists.jboss.org
-:revnumber: 2.0 EDR1
-:revdate: June 25, 2015
-:revremark: Early Draft
-:version-label!:
-:sectanchors:
-:doctype: book
-:license: asl2
-:source-highlighter: coderay
-:toc: left
-:toclevels: 3
-ifdef::backend-pdf[]
-:pagenums:
-endif::[]
+= Lorem ipsum
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut molestie gravida finibus. Curabitur interdum venenatis elit, quis volutpat enim condimentum id. Suspendisse potenti. Mauris consectetur elementum est, vitae porta nisl dapibus convallis. Proin blandit arcu ac lacus accumsan commodo vitae convallis tellus. Fusce tincidunt fringilla molestie. Nullam fringilla lacus nisl, sed gravida est viverra non. Cras nec dui nisl.
 
+Sed pulvinar mauris massa, quis auctor magna laoreet ut. In hac habitasse platea dictumst. Aliquam tempor tempus consequat. Quisque finibus leo nec viverra pharetra. Vivamus nec sem venenatis, maximus lacus a, hendrerit massa. Morbi accumsan, ex at euismod suscipit, ipsum velit tempor turpis, dapibus sagittis tellus felis vitae lacus. In nec iaculis arcu, non imperdiet risus. Proin sollicitudin a diam ac commodo. Nunc interdum lacus ut sapien aliquet, id condimentum diam rhoncus. Aliquam eget dignissim massa, at eleifend orci. Sed elit augue, egestas eget lectus non, mattis iaculis eros. Pellentesque bibendum, diam nec euismod sodales, purus justo pulvinar purus, et gravida ex quam eget nulla. Maecenas posuere varius tincidunt.
 
-[preface]
-include::preface.asciidoc[]
+Integer condimentum, risus at sagittis fringilla, ipsum massa eleifend ligula, vel vulputate risus turpis in metus. Duis vel risus magna. Nam mattis nunc dolor. Quisque rhoncus vulputate neque vel finibus. Ut quis elit eu felis euismod maximus. Vestibulum suscipit elit quam, sed bibendum lorem mattis bibendum. Vestibulum sit amet leo pharetra, rhoncus velit sed, semper turpis.
 
-include::architecture.asciidoc[]
-
-[[part_1]]
-= Part I - Core CDI
-
-include::core/definition.asciidoc[]
-
-include::core/implementation.asciidoc[]
-
-include::core/inheritance.asciidoc[]
-
-include::core/injectionandresolution.asciidoc[]
-
-include::core/scopescontexts.asciidoc[]
-
-include::core/lifecycle.asciidoc[]
-
-include::core/decorators.asciidoc[]
-
-include::core/interceptors.asciidoc[]
-
-include::core/events.asciidoc[]
-
-include::core/spi.asciidoc[]
-
-include::core/packagingdeployment.asciidoc[]
-
-
-[[part_2]]
-= Part II - CDI in Java SE
-
-include::javase/javase.asciidoc[]
-
-[[part_3]]
-= Part III - CDI in Java EE
-
-include::javaee/javaeeintegration.asciidoc[]
+Nam eu ante nisi. Nam convallis placerat tortor, a sollicitudin arcu eleifend in. Suspendisse ultrices mauris dui, at posuere est rutrum id. Aliquam cursus, elit vitae tincidunt dignissim, tellus ex rhoncus lectus, ut suscipit mauris nunc non neque. Nullam non purus magna. Donec posuere ut ligula sed luctus. Suspendisse facilisis pulvinar euismod. Nunc elementum nulla sed nunc pharetra, at egestas quam lacinia.
