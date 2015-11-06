@@ -1,0 +1,59 @@
+= JSR 365: Contexts and Dependency Injection for Java 2.0
+:author: JSR 365 EG lead by Antoine Sabot-Durand
+:email: cdi-dev@lists.jboss.org
+:revnumber: 2.0 EDR1
+:revdate: June 25, 2015
+:revremark: Early Draft
+:version-label!:
+:sectanchors:
+:doctype: book
+:license: asl2
+:source-highlighter: coderay
+:toc: left
+:toclevels: 3
+ifdef::backend-pdf[]
+:pagenums:
+endif::[]
+
+
+
+[preface]
+include::preface.asciidoc[]
+
+include::architecture.asciidoc[]
+
+[[part_1]]
+= Part I - Core CDI
+
+include::core/definition.asciidoc[]
+
+include::core/implementation.asciidoc[]
+
+include::core/inheritance.asciidoc[]
+
+include::core/injectionandresolution.asciidoc[]
+
+include::core/scopescontexts.asciidoc[]
+
+include::core/lifecycle.asciidoc[]
+
+include::core/decorators.asciidoc[]
+
+include::core/interceptors.asciidoc[]
+
+include::core/events.asciidoc[]
+
+include::core/spi.asciidoc[]
+
+include::core/packagingdeployment.asciidoc[]
+
+
+[[part_2]]
+= Part II - CDI in Java SE
+
+include::javase/javase.asciidoc[]
+
+[[part_3]]
+= Part III - CDI in Java EE
+
+include::javaee/javaeeintegration.asciidoc[]
