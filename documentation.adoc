@@ -1,4 +1,6 @@
 = JSR 365: Contexts and Dependency Injection for Java 2.0
+:toc:
+:toc-placement: preamble
 :author: JSR 365 EG lead by Antoine Sabot-Durand
 :email: cdi-dev@lists.jboss.org
 :revnumber: 2.0 EDR1
